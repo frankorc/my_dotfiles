@@ -15,9 +15,13 @@ cmd open ${{
 # Remove some defaults
 map d
 map m
+map e
+map i
 
 # Basic Functions
 map . set hidden!
+map i $$EDITOR $f
+map e $$PAGER $f
 map dd delete
 map x cut
 map M mark-save
