@@ -1,0 +1,26 @@
+set shell zsh
+set shellopts '-eu'
+set ifs "\n"
+set scrolloff 10
+#set color256
+#set icons
+
+cmd open ${{
+    case $(file --mime-type $f -b) in
+        text/*) $EDITOR $fx;;
+        *) for f in $fx; do setsid $OPENER $f > /dev/null 2> /dev/null & done;;
+    esac
+}}
+
+# Remove some defaults
+map d
+map m
+
+# Basic Functions
+map . set hidden!
+map dd delete
+map x cut
+map M mark-save
+map md push $mkdir<space>
+map mf push $touch<space>
+
