@@ -1,7 +1,7 @@
 # my_dotfiles
 ## Config Files
 
-*.tmux.conf
-*.zhrc
+* tmux.conf
+* zhrc
 * lfrc
 
