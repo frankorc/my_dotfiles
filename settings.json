@@ -1,0 +1,123 @@
+{
+  "vim.incsearch": true,
+  "vim.hlsearch": false,
+  "vim.easymotion": true,
+  "vim.easymotionMarkerBackgroundColor": "#fabd2f",
+  "vim.easymotionMarkerForegroundColorOneChar": "#000000",
+  "vim.leader": "<space>",
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["s"],
+      "after": ["leader", "leader", "2", "f"]
+    },
+    {
+      "before": ["S"],
+      "after": ["leader", "leader", "2", "F"]
+    },
+    {
+      "before": ["leader", "w", "s"],
+      "commands": [":w"]
+    },
+    {
+      "before": ["leader", "w", "e"],
+      "commands": [":q!"]
+    },
+    {
+      "before": ["leader", "w", "q"],
+      "commands": [":wq"]
+    },
+    {
+      "before": ["leader", "q"],
+      "commands": [":q"]
+    },
+    {
+      "before": ["leader", "v"],
+      "commands": [":vsplit"]
+    },
+    {
+      "before": ["leader", "h"],
+      "commands": [":split"]
+    },
+    {
+      "before": ["leader", "c", "c"],
+      "after": ["g", "c", "c"]
+    },
+    {
+      "before": ["leader", "c", "s"],
+      "after": ["g", "c", "a", "p"]
+    },
+    {
+      "before": ["tab"],
+      "after": ["g", "t"]
+    }
+  ],
+  "vim.statusBarColorControl": true,
+  "vim.statusBarColors.normal": ["#1D2021", "#FFFFFF"],
+  "vim.statusBarColors.insert": ["#83A598", "#000000"],
+  "vim.statusBarColors.visual": ["#B38EAD", "#000000"],
+  "vim.statusBarColors.visualline": ["#B48EAD", "#000000"],
+  "vim.statusBarColors.visualblock": ["#B48EAD", "#000000"],
+  "vim.statusBarColors.replace": ["#D08770", "#000000"],
+  "vim.statusBarColors.commandlineinprogress": "#1D2021",
+  "vim.statusBarColors.searchinprogressmode": "#1D2021",
+  "vim.statusBarColors.easymotionmode": "#1D2021",
+  "vim.statusBarColors.easymotioninputmode": "#1D2021",
+  "vim.statusBarColors.surroundinputmode": "#1D2021",
+
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#83A598",
+    "statusBar.foreground": "#000000",
+    "activityBar.activeBorder": "#000000",
+    "activityBar.foreground": "#00A884",
+    "activityBar.inactiveForeground": "#504945",
+    "scrollbarSlider.hoverBackground": "#00A884",
+    "scrollbarSlider.activeBackground": "#00A884",
+    "statusBar.noFolderBackground": "#83A598",
+    "statusBar.debuggingBackground": "#83A598",
+    "list.warningForeground": "#FABD2F",
+    "list.errorForeground": "#ff0000"
+  },
+
+  "editor.fontFamily": "MesloLGS NF",
+  "editor.fontLigatures": true,
+  "workbench.colorTheme": "Gruvbox Dark Hard",
+  "workbench.iconTheme": "material-icon-theme",
+  "kite.showWelcomeNotificationOnStartup": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.lineNumbers": "relative",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.languageServer": "Microsoft",
+  "explorer.confirmDragAndDrop": false,
+  "files.autoSave": "off",
+  "php.validate.executablePath": "/usr/bin/php",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "workbench.activityBar.visible": false,
+  "editor.minimap.enabled": false,
+  "window.menuBarVisibility": "toggle",
+  "workbench.editorAssociations": [
+    {
+      "viewType": "jupyter.notebook.ipynb",
+      "filenamePattern": "*.ipynb"
+    }
+  ],
+  "explorer.confirmDelete": false,
+  "window.zoomLevel": 0,
+  "window.titleBarStyle": "custom",
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "all",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true
+  }
+}
