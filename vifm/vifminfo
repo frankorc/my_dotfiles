@@ -1,0 +1,383 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/forc/
+	..
+1608062497
+'b
+	/home/forc/bin/
+	..
+1608062497
+'h
+	/home/forc/
+	..
+1608062497
+'n
+	/home/forc/.config/nvim
+	..
+1608066974
+'z
+	/home/forc/.config/vifm
+	..
+1608062497
+
+# Bookmarks:
+b/home/forc/.config/nvim/
+	n
+	1608066939
+
+# TUI:
+al
+q1
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/forc/Escritorio
+	..
+0
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code/Proyectos/Tesis
+	..
+0
+d/home/forc/Code/Proyectos
+	LearnHTML&CSS
+4
+d/home/forc/Code/Proyectos/LearnHTML&CSS
+	..
+0
+d/home/forc/Code/Proyectos
+	LearnHTML&CSS
+4
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	.config
+2
+d/home/forc/.config
+	nvim
+26
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc/.config
+	nvim
+26
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc/.config
+	nvim
+26
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc
+	.config
+2
+d/home/forc/.config
+	nvim
+26
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc/.config
+	nvim
+26
+d/home/forc
+	.config
+2
+d/home/forc/.config
+	nvim
+25
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc/.config
+	nvim
+25
+d/home/forc
+	Code
+1
+d/home/forc/.config/nvim
+	..
+0
+d/home/forc/.config
+	nvim
+25
+d/home/forc
+	..
+0
+d/home
+	forc
+1
+d/
+	home
+5
+d/home
+	forc
+1
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Imágenes
+5
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc/Imágenes/PROFESIONAL
+	UTIL
+5
+d/home/forc/Imágenes/PROFESIONAL/UTIL
+	..
+0
+d/home/forc/Imágenes/PROFESIONAL
+	UTIL
+5
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc
+	Imágenes
+5
+d/home
+	forc
+1
+d/home/forc
+	Imágenes
+5
+d/home
+	forc
+1
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc/Code/Proyectos
+	LearnHTML&CSS
+4
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Imágenes
+5
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc/Imágenes/PROFESIONAL
+	SOLIDWORKS
+4
+d/home/forc/Imágenes/PROFESIONAL/SOLIDWORKS
+	Ensamblaje
+1
+d/home/forc/Imágenes/PROFESIONAL/SOLIDWORKS/Ensamblaje
+	..
+0
+d/home/forc/Imágenes/PROFESIONAL/SOLIDWORKS
+	Ensamblaje
+1
+d/home/forc/Imágenes/PROFESIONAL
+	SOLIDWORKS
+4
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc
+	Documentos
+3
+d/home/forc/Documentos
+	PDF(LIBROS)
+2
+d/home/forc/Documentos/PDF(LIBROS)
+	ENTRE LETRAS Y COLORES.pdf
+4
+d/home/forc/Documentos
+	PDF(LIBROS)
+2
+d/home/forc
+	Documentos
+3
+d/home
+	forc
+1
+d/home/forc
+	Descargas
+2
+d/home/forc/Descargas
+	INSTALADORES LINUX
+2
+d/home/forc/Descargas/INSTALADORES LINUX
+	..
+0
+d/home/forc/Descargas
+	INSTALADORES WINDOWS
+3
+d/home/forc/Descargas/INSTALADORES WINDOWS
+	..
+0
+d/home/forc/Descargas
+	ISO
+4
+d/home/forc/Descargas/ISO
+	..
+0
+d/home/forc/Descargas
+	ISO
+4
+d/home/forc
+	Documentos
+3
+d/home/forc/Documentos
+	PDF(LIBROS)
+2
+d/home/forc/Documentos/PDF(LIBROS)
+	ENTRE LETRAS Y COLORES.pdf
+4
+d/home/forc/Documentos
+	PDF(LIBROS)
+2
+d/home/forc
+	Imágenes
+5
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc/Imágenes/PROFESIONAL
+	UTIL
+5
+d/home/forc/Imágenes/PROFESIONAL/UTIL
+	..
+0
+d/home/forc/Imágenes/PROFESIONAL
+	UTIL
+5
+d/home/forc/Imágenes
+	PROFESIONAL
+3
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code/Proyectos/Tesis
+	Interfaz.py
+1
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code/Proyectos/Tesis
+	Interfaz.py
+1
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Code
+1
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code/Proyectos/Tesis
+	Interfaz.py
+1
+d/home/forc/Code/Proyectos
+	Tesis
+5
+d/home/forc/Code
+	Proyectos
+2
+d/home/forc
+	Code
+1
+d
+
+# Right window history (oldest to newest):
+D/home/forc
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:q
+:mkdir test
+:touch test.py
+:mark
+:bmark
+:bmark n
+:mark n
+
+# Search history (oldest to newest):
+/nvim
+
+# Prompt history (oldest to newest):
+pTest
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/forc/.local/share/vifm/Trash/000_Test
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/forc/.local/share/vifm/Trash/000_Test
+	/home/forc/Code/Proyectos/Test
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
